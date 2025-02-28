@@ -1,0 +1,100 @@
+{
+  "header": {
+    "rooms": "Quartos",
+    "dining": "Restaurante",
+    "experiences": "Experiências",
+    "location": "Localização",
+    "contact": "Contato",
+    "bookNow": "Reserve Agora",
+    "phone": "+593 99 999 9999",
+    "email": "info@awahotel.com"
+  },
+  "nav": {
+    "home": "Início",
+    "rooms": "Quartos",
+    "experience": "Experiência",
+    "gastronomy": "Gastronomia",
+    "wellness": "Bem-estar",
+    "events": "Eventos"
+  },
+  "hero": {
+    "title": "Bem-vindo ao AWA Hotel",
+    "subtitle": "Uma experiência única no coração da natureza",
+    "exploreButton": "Explorar Quartos",
+    "autoScrollMessage": "Rolagem automática"
+  },
+  "rooms": {
+    "title": "Nossas Acomodações",
+    "description": "Experimente o luxo e o conforto em nossos quartos e suítes cuidadosamente projetados",
+    "viewDetails": "Ver Detalhes",
+    "viewAll": "Ver Todas as Acomodações",
+    "items": {
+      "oceanSuite": {
+        "name": "Suíte Oceânica",
+        "description": "Suíte luxuosa com vista panorâmica para o oceano e varanda privativa",
+        "size": "75 m²",
+        "capacity": "2 Adultos",
+        "price": "A partir de $500/noite"
+      },
+      "gardenVilla": {
+        "name": "Villa Jardim",
+        "description": "Villa espaçosa cercada por jardins tropicais com piscina privativa",
+        "size": "120 m²",
+        "capacity": "4 Adultos",
+        "price": "A partir de $800/noite"
+      },
+      "beachfrontSuite": {
+        "name": "Suíte Frente ao Mar",
+        "description": "Acesso direto à praia com vistas deslumbrantes do pôr do sol e chuveiro externo",
+        "size": "90 m²",
+        "capacity": "2 Adultos",
+        "price": "A partir de $600/noite"
+      }
+    }
+  },
+  "experience": {
+    "title": "A Experiência Awa",
+    "description": "Mergulhe em um mundo de luxo, conforto e experiências inesquecíveis",
+    "items": {
+      "spa": {
+        "title": "Spa de Luxo",
+        "description": "Desfrute de nossos tratamentos de spa e experiências de bem-estar de classe mundial"
+      },
+      "dining": {
+        "title": "Alta Gastronomia",
+        "description": "Saboreie a requintada culinária preparada por nossos chefs premiados"
+      },
+      "adventure": {
+        "title": "Aventura",
+        "description": "Explore as maravilhas naturais e experiências culturais ao nosso redor"
+      }
+    },
+    "cta": {
+      "title": "Crie sua Estadia Perfeita",
+      "description": "Deixe-nos ajudá-lo a criar uma experiência personalizada que atenda a todos os seus desejos",
+      "button": "Contate Nosso Concierge"
+    }
+  },
+  "gastronomy": {
+    "title": "Gastronomia",
+    "description": "Sabores requintados que encantam seus sentidos"
+  },
+  "wellness": {
+    "title": "Bem-estar",
+    "description": "Relaxe e renove-se em nosso spa"
+  },
+  "events": {
+    "title": "Eventos",
+    "description": "O lugar perfeito para suas celebrações especiais"
+  },
+  "footer": {
+    "contact": "Contato",
+    "address": "Endereço",
+    "social": "Redes Sociais",
+    "rights": "Todos os direitos reservados"
+  },
+  "hotelConcept": {
+    "title": "Bem-vindo a uma experiência única",
+    "description": "Descubra um oásis de luxo e tranquilidade onde cada detalhe foi cuidadosamente projetado para oferecer momentos inesquecíveis. Nosso hotel combina elegância contemporânea com o charme natural do ambiente, criando um refúgio perfeito para os viajantes mais exigentes."
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "header": {
+    "rooms": "Rooms",
+    "dining": "Dining",
+    "experiences": "Experiences",
+    "location": "Location",
+    "contact": "Contact",
+    "bookNow": "Book Now",
+    "phone": "+593 99 999 9999",
+    "email": "info@awahotel.com"
+  },
+  "nav": {
+    "home": "Home",
+    "rooms": "Rooms",
+    "experience": "Experience",
+    "gastronomy": "Gastronomy",
+    "wellness": "Wellness",
+    "events": "Events"
+  },
+  "hero": {
+    "title": "Welcome to AWA Hotel",
+    "subtitle": "A unique experience in the heart of nature",
+    "exploreButton": "Explore Rooms",
+    "autoScrollMessage": "Auto-scrolling"
+  },
+  "rooms": {
+    "title": "Our Accommodations",
+    "description": "Experience luxury and comfort in our thoughtfully designed rooms and suites",
+    "viewDetails": "View Details",
+    "viewAll": "View All Accommodations",
+    "items": {
+      "oceanSuite": {
+        "name": "Ocean Suite",
+        "description": "Luxurious suite with panoramic ocean views and private balcony",
+        "size": "75 m²",
+        "capacity": "2 Adults",
+        "price": "From $500/night"
+      },
+      "gardenVilla": {
+        "name": "Garden Villa",
+        "description": "Spacious villa surrounded by tropical gardens with private pool",
+        "size": "120 m²",
+        "capacity": "4 Adults",
+        "price": "From $800/night"
+      },
+      "beachfrontSuite": {
+        "name": "Beachfront Suite",
+        "description": "Direct beach access with stunning sunset views and outdoor shower",
+        "size": "90 m²",
+        "capacity": "2 Adults",
+        "price": "From $600/night"
+      }
+    }
+  },
+  "experience": {
+    "title": "The Awa Experience",
+    "description": "Immerse yourself in a world of luxury, comfort, and unforgettable experiences",
+    "items": {
+      "spa": {
+        "title": "Luxury Spa",
+        "description": "Indulge in our world-class spa treatments and wellness experiences"
+      },
+      "dining": {
+        "title": "Fine Dining",
+        "description": "Savor exquisite cuisine prepared by our award-winning chefs"
+      },
+      "adventure": {
+        "title": "Adventure",
+        "description": "Explore the natural wonders and cultural experiences around us"
+      }
+    },
+    "cta": {
+      "title": "Create Your Perfect Stay",
+      "description": "Let us help you design a personalized experience that caters to your every desire",
+      "button": "Contact Our Concierge"
+    }
+  },
+  "gastronomy": {
+    "title": "Gastronomy",
+    "description": "Exquisite flavors that delight your senses"
+  },
+  "wellness": {
+    "title": "Wellness",
+    "description": "Relax and renew yourself in our spa"
+  },
+  "events": {
+    "title": "Events",
+    "description": "The perfect place for your special celebrations"
+  },
+  "footer": {
+    "contact": "Contact",
+    "address": "Address",
+    "social": "Social Media",
+    "rights": "All rights reserved"
+  },
+  "hotelConcept": {
+    "title": "Welcome to a unique experience",
+    "description": "Discover an oasis of luxury and tranquility where every detail has been carefully designed to offer you unforgettable moments. Our hotel combines contemporary elegance with the natural charm of the surroundings, creating a perfect retreat for the most discerning travelers."
+  }
+}

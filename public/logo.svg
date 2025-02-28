@@ -1,0 +1,18 @@
+<svg width="200" height="280" viewBox="0 0 200 280" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Fondo rojo oscuro en forma de escudo -->
+  <path d="M10 0H190C196.627 0 200 3.37258 200 10V250C200 250 180 280 100 280C20 280 0 250 0 250V10C0 3.37258 3.37258 0 10 0Z" fill="#990000"/>
+  
+  <!-- Tres estrellas blancas más puntiagudas -->
+  <path d="M50 30L54 50L50 70L46 50L50 30ZM100 30L104 50L100 70L96 50L100 30ZM150 30L154 50L150 70L146 50L150 30Z" fill="white"/>
+  
+  <!-- Letras HC más gruesas -->
+  <path d="M45 90H75V110H60V145H85V165H60V200H75V220H45V200H60V110H45V90Z" fill="white"/>
+  <path d="M85 90H155C155 90 140 90 140 110V145C140 165 155 165 155 165C140 165 140 180 140 180V200C140 220 155 220 155 220H85V200H125V180H110V145H125V110H85V90Z" fill="white"/>
+  
+  <!-- Palabra CHILE con más espacio desde HC -->
+  <path d="M40 235H90V245H60V255H40V235Z" fill="white"/> <!-- C -->
+  <path d="M100 235H115V255H100V235Z" fill="white"/> <!-- H -->
+  <path d="M125 235H140V240H125V235ZM125 250H140V255H125V250Z" fill="white"/> <!-- I -->
+  <path d="M150 235H165V255H150V235Z" fill="white"/> <!-- L -->
+  <path d="M175 235H190V240H180V245H185V250H180V255H175V235Z" fill="white"/> <!-- E -->
+</svg>
